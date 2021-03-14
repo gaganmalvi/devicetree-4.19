@@ -8,3 +8,4 @@
 	compatible = "qcom,bengal-qrd", "qcom,bengal", "qcom,qrd";
 	qcom,board-id = <0x1000B 0>;
 };
+
